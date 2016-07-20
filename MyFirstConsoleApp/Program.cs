@@ -11,6 +11,11 @@ namespace MyFirstConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is my first version");
+            Console.WriteLine("This is version 1 change");
+
+            Console.WriteLine("Another version 1 change");
+
+            Console.WriteLine("This is version 1.1 change");
 
             Console.WriteLine("Another master change, is ithis going to conflict ?");
         }
