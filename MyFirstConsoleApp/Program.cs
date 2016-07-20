@@ -18,6 +18,8 @@ namespace MyFirstConsoleApp
             Console.WriteLine("This is version 1.1 change");
 
             Console.WriteLine("Another master change, is ithis going to conflict ?");
+
+            //One more master change
         }
     }
 }
