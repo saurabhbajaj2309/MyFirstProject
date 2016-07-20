@@ -11,6 +11,8 @@ namespace MyFirstConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is my first version");
+
+            Console.WriteLine("Another master change, is ithis going to conflict ?");
         }
     }
 }
