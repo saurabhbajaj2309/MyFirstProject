@@ -14,6 +14,8 @@ namespace MyFirstConsoleApp
             Console.WriteLine("This is version 1 change");
 
             Console.WriteLine("Another version 1 change");
+
+            Console.WriteLine("This is version 1.1 change");
         }
     }
 }
